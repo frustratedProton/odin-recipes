@@ -1,3 +1,3 @@
 # odin-recipes
 # this is to try make my first project using basic html code.
-# will update and commit after making actual project.
+# basic HTML is done and next is to most likely to make it look good and not like a draft
