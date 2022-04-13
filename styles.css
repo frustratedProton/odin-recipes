@@ -1,0 +1,48 @@
+
+body{
+    background: url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png)
+}
+
+.food{
+    color: #04b341;
+    font-family: lobster;
+    font-size: 64px;
+    text-align: center;
+}
+
+.recipes-text{
+    color: #32a8a6;
+    font-family: lato;
+    font-size: larger;
+    text-align: right;
+    padding: 5px;
+}
+
+.recipes-text:hover{
+    color: #1e7d65;
+    animation-name: width;
+    animation-duration: 500ms;
+    animation-fill-mode: forwards;
+}
+.image {
+    display: block;
+    margin: auto;
+    width: min(70%, 500px);
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+    margin-bottom: 28px;
+}
+
+#content {
+    margin-top: 2rem;
+    margin: auto;
+    height: auto;
+    border-radius: 25px;
+    text-align: center;
+    border: 1px solid #04b341;
+    margin-bottom: 10em;
+}
+
+footer{
+    text-align: end
+}

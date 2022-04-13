@@ -1,0 +1,37 @@
+
+body{
+    background: url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png)
+}
+
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 55px;
+    text-align: center;
+}
+
+.dark{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: left;
+}
+
+.photo{
+    display: block;
+    margin: auto;
+    width: min(70%, 500px);
+    border-radius: 25px;
+    margin-bottom: 28px;
+}
+
+.para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    margin-right: 0px;
+    margin: auto;
+    text-align: center;
+}
+
+a{
+    text-align: end;
+    color: #109fe4;
+}
